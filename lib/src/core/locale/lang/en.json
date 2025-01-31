@@ -1,0 +1,18 @@
+{
+    "about": "About",
+    "portfolio": "Portfolio",
+    "flutterDeveloper": "Flutter Developer",
+    "helloMyNameIs": "Hello, my name\nis Osama Riyad",
+    "myDescription": "Highly motivated and detail-oriented Junior Flutter developer with a solid foundation in mobile app development. Skilled in translating design concepts into efficient, visually appealing applications and passionate about creating innovative, user-friendly solutions. Eager to contribute to collaborative projects, implement UI/UX, and stay updated with emerging technologies and industry trends. Committed to delivering high-quality mobile apps and seeking opportunities for professional growth.",
+    "downloadCV": "Download CV",
+    "skills": "Skills",
+    "hireMe": "Hire Me",
+    "viewProject": "View Project",
+    "download app": "Download App",
+    "BooklyDescription": "Developed 'Bookly', an application that showcases bestselling books and provides users with a platform to summarize their books.• Integrated features such as book summaries, user-generated summaries, and likes, enhancing user engagement and interaction.• Improved user experience with functionalities like searching for books, viewing popular books, and managing personal book summaries, promoting a seamless and interactive reading community.",
+    "ArdDescription": "Designed and developed Ard, a smart agricultural platform that detects farmlands and crops using NASA data and AI-powered analysis.\n• Implemented an advanced frame detection system, allowing farmers to monitor their fields, assess crop health, and optimize yield with precision.\n• Integrated an AI assistant for farmers, providing real-time insights, weather predictions, and farming recommendations based on satellite data.\n• Ensured a seamless user experience with interactive maps, data visualization, and an intuitive interface for easy access to agricultural insights.",
+    "MealRecommendationDescription": "•Built Meal_Recommendation AI, an intelligent meal planning app that utilizes AI to generate personalized recipes and meal suggestions.\n• Integrated advanced search and filtering options, allowing users to find meals based on dietary preferences, ingredients, and nutrition.\n• Developed a seamless and interactive experience with dynamic AI-driven recommendations, helping users discover new and healthy meal ideas effortlessly.\n• Focused on a user-friendly and responsive interface, ensuring smooth navigation and an engaging experience for all users.",
+    "WeatherAiDescription": "• Built WeatherAi, a weather prediction app tailored for athletes, providing real-time weather forecasts based on the user’s location.\n• Integrated features such as weekly weather predictions, customizable settings, and detailed insights, helping athletes plan their activities efficiently.\n• Ensured a seamless user experience with an intuitive interface, offering quick access to weather updates and personalized settings..",
+    "JustGpaDescription": "Built JUST GPA, a dedicated app for Jordan University of Science and Technology (JUST) students to calculate their semester and cumulative GPA efficiently.\n• Integrated user-friendly input fields and real-time GPA calculations, ensuring accuracy and ease of use for students managing their academic performance.\n"
+
+}
