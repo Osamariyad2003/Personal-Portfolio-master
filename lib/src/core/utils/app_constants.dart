@@ -89,27 +89,25 @@ class AppConstants {
       name: 'Meal Recommendation Ai',
       descriptionKey: LangKeys.MealRecommendationDescription,
       image: Assets.MealRecommendation_Icon,
-      url: "https://www.mediafire.com/file/p9f89wxv63mgity/ICare.apk/file",
-      canBeDownloaded: true,
+      url: "https://github.com/Osamariyad2003/meal_recommendation_ai",
     ),
     Project(
       name: "ARD",
       descriptionKey: LangKeys.ArdDescription,
       image: Assets.ArdIcon,
-      url: "https://www.mediafire.com/file/ow4ilvobb6jxb04/Linkup.apk/file",
-      canBeDownloaded: true,
+      url: "https://github.com/Osamariyad2003/ARD",
     ),
     Project(
       name: "Bookly",
       descriptionKey: LangKeys.BooklyDescription,
       image: Assets.BooklyIcon,
-      neitherDownloadedNorViewed: true,
+      url: 'https://github.com/Osamariyad2003/bookly',
     ),
     Project(
       name: "WeatherAi",
       descriptionKey: LangKeys.WeatherAiDescription,
       image: Assets.WeatherAiIcon,
-      url: "https://github.com/ahmedghaly15/Roome",
+      url: "https://github.com/Osamariyad2003/weather_ai_model",
     ),
   ];
 }
