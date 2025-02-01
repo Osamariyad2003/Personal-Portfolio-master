@@ -46,7 +46,7 @@ flutter:
     - assets/
     - assets/images/
     - assets/svgs/
-    - assets/cv/
+    - assets/cv/Osama_CV.pdf
     - lib/src/core/locale/lang/ar.json
     - lib/src/core/locale/lang/en.json
 
