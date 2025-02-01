@@ -52,7 +52,7 @@ class DownloadCVAndHireMeButtons extends StatelessWidget {
   }
 
   Future<void> _downloadCV() async {
-    final ByteData data = await rootBundle.load(Assets.cvAhmedGhaly);
+    final ByteData data = await rootBundle.load(Assets.cvOsamaRiyad);
     final Uint8List bytes = data.buffer.asUint8List();
     await FileSaver.instance.saveFile(
       name: AppStrings.appTitle, // The name of the file

@@ -8,7 +8,7 @@ class Assets {
 
   /// Assets for cvAhmedGhaly
   /// assets/cv/Ahmed-Ghaly.pdf
-  static const String cvAhmedGhaly = "assets/cv/OS_CV.pdf";
+  static const String cvOsamaRiyad = "assets/cv/Osama_CV.pdf";
 
   /// Assets for fontsNunitoNunitoBold
   /// assets/fonts/Nunito/Nunito-Bold.ttf
