@@ -37,12 +37,12 @@ class AppConstants {
     SocialIcon(
       hoveredIcon: Assets.svgsHoveredFacebookIcon,
       icon: Assets.svgsFacebookIcon,
-      url: "https://www.facebook.com/profile.php?id=100011409033548",
+      url: "https://www.facebook.com/riad.osama/",
     ),
     SocialIcon(
       hoveredIcon: Assets.svgsHoveredInstagramIcon,
       icon: Assets.svgsInstagramIcon,
-      url: "https://www.instagram.com/aboghaly___/",
+      url: "https://www.instagram.com/osama_r03/",
     ),
   ];
 
