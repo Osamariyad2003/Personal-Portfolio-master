@@ -103,6 +103,8 @@ class Assets {
   static const String imagesStoreifyIcon = "assets/images/storeify_icon.png";
 
   static const String ArdIcon = "assets/images/ard.png";
+  static const String Ulmo = "assets/images/ulmo.png";
+
 
 
   /// Assets for svgsDarkModeIcon

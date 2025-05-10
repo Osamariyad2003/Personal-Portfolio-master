@@ -22,7 +22,7 @@ dependencies:
   # Flutter plugin for reading and writing simple key-value pairs for cache
   shared_preferences: ^2.2.3
   # For beautiful animations 
-  animate_do: ^3.3.4
+  animate_do: ^4.2.0
   # For launching a URL
   url_launcher: ^6.3.0
   # To save files on any platform

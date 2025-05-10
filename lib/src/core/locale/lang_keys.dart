@@ -12,6 +12,8 @@ class LangKeys {
   static const String viewProject = 'viewProject';
   static const String downloadApp = 'download app';
   static const String JustGpaDescription = 'JustGpaDescription';
+  static const String Ulmo = 'Ulmo';
+
   static const String WeatherAiDescription = 'WeatherAiDescription';
   static const String MealRecommendationDescription = 'MealRecommendationDescription';
   static const String ArdDescription = 'ArdDescription';

@@ -86,6 +86,12 @@ class AppConstants {
 
   static const List<Project> portfolio = [
     Project(
+      name: 'Ulmo',
+      descriptionKey: LangKeys.Ulmo,
+      image: Assets.Ulmo,
+      url: "https://github.com/Osamariyad2003/ulmo",
+    ),
+    Project(
       name: 'Meal Recommendation Ai',
       descriptionKey: LangKeys.MealRecommendationDescription,
       image: Assets.MealRecommendation_Icon,
